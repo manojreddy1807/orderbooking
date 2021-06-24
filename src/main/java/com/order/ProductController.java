@@ -82,7 +82,7 @@ public class ProductController {
 
 	}
 
-	// Get all students from the h2 database.
+	
 	// @GetMapping annotation handles the http get request matched with the given
 	// uri.
 	@GetMapping(value = "/order/getall")
