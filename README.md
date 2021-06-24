@@ -6,7 +6,7 @@ Booking the order with offers
 http://localhost:8080/order/offer/save?appleCount=10&orangeCount=20
 the parameters are appleCount and orangeCount for saving the data 
 
-![image](https://user-images.githubusercontent.com/86365167/123276958-4b5eae80-d523-11eb-972a-a9b9104aa960.png)
+![image](https://user-images.githubusercontent.com/86365167/123279352-64685f00-d525-11eb-865b-b5acb6bb4a9c.png)
 
 Booking the order without any offer 
 http://localhost:8080/order/save?appleCount=10&orangeCount=22
